@@ -1,0 +1,341 @@
+***Pipe: 0***
+Angle XYZ, 0.000000, 0.000000, 0.000000
+Location XYZ, -0.133700, 0.000000, 0.000000
+Size TDH, 0.006600, 0.267400, 0.940000
+Density, 7.874000
+***Pipe: 1***
+Angle XYZ, 0.000000, 0.000000, 0.000000
+Location XYZ, -0.133700, 0.000000, 0.000000
+Size TDH, 0.006200, 0.241800, 0.990000
+Density, 7.874000
+***Pipe: 2***
+Angle XYZ, 0.000000, 180.000000, 0.000000
+Location XYZ, -0.133700, 0.000000, 0.000000
+Size TDH, 0.005800, 0.216300, 1.040000
+Density, 7.874000
+**RA: 0**
+isInside, 1
+Location XYZ, 0.102350, 0.000000, 0.000000
+Uranium, 1.000000
+**RA: 1**
+isInside, 1
+Location XYZ, 0.102350, 0.087500, 0.000000
+Uranium, 1.000000
+**RA: 2**
+isInside, 1
+Location XYZ, 0.102350, -0.087500, 0.000000
+Uranium, 1.000000
+**RA: 3**
+isInside, 1
+Location XYZ, 0.102350, 0.175000, 0.000000
+Uranium, 1.000000
+**RA: 4**
+isInside, 1
+Location XYZ, 0.102350, -0.175000, 0.000000
+Uranium, 1.000000
+**RA: 5**
+isInside, 1
+Location XYZ, 0.102350, 0.262500, 0.000000
+Uranium, 1.000000
+**RA: 6**
+isInside, 1
+Location XYZ, 0.102350, -0.262500, 0.000000
+Uranium, 1.000000
+**RA: 7**
+isInside, 1
+Location XYZ, 0.102350, 0.350000, 0.000000
+Uranium, 1.000000
+**RA: 8**
+isInside, 1
+Location XYZ, 0.102350, -0.350000, 0.000000
+Uranium, 1.000000
+**RA: 9**
+isInside, 1
+Location XYZ, 0.031631, 0.000000, 0.097339
+Uranium, 1.000000
+**RA: 10**
+isInside, 1
+Location XYZ, 0.031631, 0.087500, 0.097339
+Uranium, 1.000000
+**RA: 11**
+isInside, 1
+Location XYZ, 0.031631, -0.087500, 0.097339
+Uranium, 1.000000
+**RA: 12**
+isInside, 1
+Location XYZ, 0.031631, 0.175000, 0.097339
+Uranium, 1.000000
+**RA: 13**
+isInside, 1
+Location XYZ, 0.031631, -0.175000, 0.097339
+Uranium, 1.000000
+**RA: 14**
+isInside, 1
+Location XYZ, 0.031631, 0.262500, 0.097339
+Uranium, 1.000000
+**RA: 15**
+isInside, 1
+Location XYZ, 0.031631, -0.262500, 0.097339
+Uranium, 1.000000
+**RA: 16**
+isInside, 1
+Location XYZ, 0.031631, 0.350000, 0.097339
+Uranium, 1.000000
+**RA: 17**
+isInside, 1
+Location XYZ, 0.031631, -0.350000, 0.097339
+Uranium, 1.000000
+**RA: 18**
+isInside, 1
+Location XYZ, -0.082798, 0.000000, 0.060166
+Uranium, 1.000000
+**RA: 19**
+isInside, 1
+Location XYZ, -0.082798, 0.087500, 0.060166
+Uranium, 1.000000
+**RA: 20**
+isInside, 1
+Location XYZ, -0.082798, -0.087500, 0.060166
+Uranium, 1.000000
+**RA: 21**
+isInside, 1
+Location XYZ, -0.082798, 0.175000, 0.060166
+Uranium, 1.000000
+**RA: 22**
+isInside, 1
+Location XYZ, -0.082798, -0.175000, 0.060166
+Uranium, 1.000000
+**RA: 23**
+isInside, 1
+Location XYZ, -0.082798, 0.262500, 0.060166
+Uranium, 1.000000
+**RA: 24**
+isInside, 1
+Location XYZ, -0.082798, -0.262500, 0.060166
+Uranium, 1.000000
+**RA: 25**
+isInside, 1
+Location XYZ, -0.082798, 0.350000, 0.060166
+Uranium, 1.000000
+**RA: 26**
+isInside, 1
+Location XYZ, -0.082798, -0.350000, 0.060166
+Uranium, 1.000000
+**RA: 27**
+isInside, 1
+Location XYZ, -0.082810, 0.000000, -0.060151
+Uranium, 1.000000
+**RA: 28**
+isInside, 1
+Location XYZ, -0.082810, 0.087500, -0.060151
+Uranium, 1.000000
+**RA: 29**
+isInside, 1
+Location XYZ, -0.082810, -0.087500, -0.060151
+Uranium, 1.000000
+**RA: 30**
+isInside, 1
+Location XYZ, -0.082810, 0.175000, -0.060151
+Uranium, 1.000000
+**RA: 31**
+isInside, 1
+Location XYZ, -0.082810, -0.175000, -0.060151
+Uranium, 1.000000
+**RA: 32**
+isInside, 1
+Location XYZ, -0.082810, 0.262500, -0.060151
+Uranium, 1.000000
+**RA: 33**
+isInside, 1
+Location XYZ, -0.082810, -0.262500, -0.060151
+Uranium, 1.000000
+**RA: 34**
+isInside, 1
+Location XYZ, -0.082810, 0.350000, -0.060151
+Uranium, 1.000000
+**RA: 35**
+isInside, 1
+Location XYZ, -0.082810, -0.350000, -0.060151
+Uranium, 1.000000
+**RA: 36**
+isInside, 1
+Location XYZ, 0.031613, 0.000000, -0.097345
+Uranium, 1.000000
+**RA: 37**
+isInside, 1
+Location XYZ, 0.031613, 0.087500, -0.097345
+Uranium, 1.000000
+**RA: 38**
+isInside, 1
+Location XYZ, 0.031613, -0.087500, -0.097345
+Uranium, 1.000000
+**RA: 39**
+isInside, 1
+Location XYZ, 0.031613, 0.175000, -0.097345
+Uranium, 1.000000
+**RA: 40**
+isInside, 1
+Location XYZ, 0.031613, -0.175000, -0.097345
+Uranium, 1.000000
+**RA: 41**
+isInside, 1
+Location XYZ, 0.031613, 0.262500, -0.097345
+Uranium, 1.000000
+**RA: 42**
+isInside, 1
+Location XYZ, 0.031613, -0.262500, -0.097345
+Uranium, 1.000000
+**RA: 43**
+isInside, 1
+Location XYZ, 0.031613, 0.350000, -0.097345
+Uranium, 1.000000
+**RA: 44**
+isInside, 1
+Location XYZ, 0.031613, -0.350000, -0.097345
+Uranium, 1.000000
+***Pipe: 3***
+Angle XYZ, 0.000000, 0.000000, 0.000000
+Location XYZ, 0.133700, 0.000000, 0.000000
+Size TDH, 0.006600, 0.267400, 0.940000
+Density, 7.874000
+***Pipe: 4***
+Angle XYZ, 0.000000, 0.000000, 0.000000
+Location XYZ, 0.133700, 0.000000, 0.000000
+Size TDH, 0.006200, 0.241800, 0.990000
+Density, 7.874000
+**RA: 0**
+isInside, 1
+Location XYZ, 0.102350, 0.000000, 0.000000
+Uranium, 1.000000
+**RA: 1**
+isInside, 1
+Location XYZ, 0.102350, 0.087500, 0.000000
+Uranium, 1.000000
+**RA: 2**
+isInside, 1
+Location XYZ, 0.102350, -0.087500, 0.000000
+Uranium, 1.000000
+**RA: 3**
+isInside, 1
+Location XYZ, 0.102350, 0.175000, 0.000000
+Uranium, 1.000000
+**RA: 4**
+isInside, 1
+Location XYZ, 0.102350, -0.175000, 0.000000
+Uranium, 1.000000
+**RA: 5**
+isInside, 1
+Location XYZ, 0.102350, 0.262500, 0.000000
+Uranium, 1.000000
+**RA: 6**
+isInside, 1
+Location XYZ, 0.102350, -0.262500, 0.000000
+Uranium, 1.000000
+**RA: 7**
+isInside, 1
+Location XYZ, 0.102350, 0.350000, 0.000000
+Uranium, 1.000000
+**RA: 8**
+isInside, 1
+Location XYZ, 0.102350, -0.350000, 0.000000
+Uranium, 1.000000
+**RA: 9**
+isInside, 1
+Location XYZ, -0.051170, 0.000000, 0.088641
+Uranium, 1.000000
+**RA: 10**
+isInside, 1
+Location XYZ, -0.051170, 0.087500, 0.088641
+Uranium, 1.000000
+**RA: 11**
+isInside, 1
+Location XYZ, -0.051170, -0.087500, 0.088641
+Uranium, 1.000000
+**RA: 12**
+isInside, 1
+Location XYZ, -0.051170, 0.175000, 0.088641
+Uranium, 1.000000
+**RA: 13**
+isInside, 1
+Location XYZ, -0.051170, -0.175000, 0.088641
+Uranium, 1.000000
+**RA: 14**
+isInside, 1
+Location XYZ, -0.051170, 0.262500, 0.088641
+Uranium, 1.000000
+**RA: 15**
+isInside, 1
+Location XYZ, -0.051170, -0.262500, 0.088641
+Uranium, 1.000000
+**RA: 16**
+isInside, 1
+Location XYZ, -0.051170, 0.350000, 0.088641
+Uranium, 1.000000
+**RA: 17**
+isInside, 1
+Location XYZ, -0.051170, -0.350000, 0.088641
+Uranium, 1.000000
+**RA: 18**
+isInside, 1
+Location XYZ, -0.051186, 0.000000, -0.088631
+Uranium, 1.000000
+**RA: 19**
+isInside, 1
+Location XYZ, -0.051186, 0.087500, -0.088631
+Uranium, 1.000000
+**RA: 20**
+isInside, 1
+Location XYZ, -0.051186, -0.087500, -0.088631
+Uranium, 1.000000
+**RA: 21**
+isInside, 1
+Location XYZ, -0.051186, 0.175000, -0.088631
+Uranium, 1.000000
+**RA: 22**
+isInside, 1
+Location XYZ, -0.051186, -0.175000, -0.088631
+Uranium, 1.000000
+**RA: 23**
+isInside, 1
+Location XYZ, -0.051186, 0.262500, -0.088631
+Uranium, 1.000000
+**RA: 24**
+isInside, 1
+Location XYZ, -0.051186, -0.262500, -0.088631
+Uranium, 1.000000
+**RA: 25**
+isInside, 1
+Location XYZ, -0.051186, 0.350000, -0.088631
+Uranium, 1.000000
+**RA: 26**
+isInside, 1
+Location XYZ, -0.051186, -0.350000, -0.088631
+Uranium, 1.000000
+***Detector***
+Detector Number, 12
+Location HD, 0.000000, 0.180800
+***Result***
+detector[0], 1001keV, 0.0175446381
+detector[0], 766keV, 0.0051970595
+detector[1], 1001keV, 0.0067144036
+detector[1], 766keV, 0.0019279850
+detector[2], 1001keV, 0.0021997841
+detector[2], 766keV, 0.0006045787
+detector[3], 1001keV, 0.0017292891
+detector[3], 766keV, 0.0004910715
+detector[4], 1001keV, 0.0041112558
+detector[4], 766keV, 0.0011500526
+detector[5], 1001keV, 0.0067248023
+detector[5], 766keV, 0.0019298943
+detector[6], 1001keV, 0.0175409018
+detector[6], 766keV, 0.0051962790
+detector[7], 1001keV, 0.0067381656
+detector[7], 766keV, 0.0019320318
+detector[8], 1001keV, 0.0040992650
+detector[8], 766keV, 0.0011483460
+detector[9], 1001keV, 0.0017279677
+detector[9], 766keV, 0.0004909317
+detector[10], 1001keV, 0.0021985508
+detector[10], 766keV, 0.0006043806
+detector[11], 1001keV, 0.0067123667
+detector[11], 766keV, 0.0019271254
